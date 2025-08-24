@@ -1,0 +1,15 @@
+{
+	"jan": {"1": "Happy New Year ma friend",
+			"7": "Merry Christmas"},
+	"feb": {"14":"Valentine's Day"},
+	"mar":{"8":"Women's Day"},
+	"apr":{"8":"Author's birthday"},
+	"may":{},
+	"jun":{"1":"First day of summer"},
+	"jul":{},
+	"aug":{"24":"Today author create \"AnyEvents\" script"},
+	"sep":{},
+	"oct":{"31":"Sweetness or \"rm -rf */\""},
+	"nov":{},
+	"dec":{"31":"Last day of this year"}
+}

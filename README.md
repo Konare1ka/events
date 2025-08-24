@@ -6,7 +6,7 @@
 ## **Installation**
 Copy the repository
 ```
-git copy 
+git copy https://github.com/Konare1ka/events.git
 ```
 Add a script to run on command
 
@@ -14,4 +14,5 @@ Add a script to run on command
 ```
 alias events='python /path/to/events.py'
 ```
+
 Add **events** to terminal startup in your terminal configuration file
